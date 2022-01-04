@@ -1,0 +1,93 @@
+> !# @source.endpoint=https://bachelorqnamaker.cognitiveservices.azure.com/
+> !# @source.kbId=d226f755-68db-4846-97ed-f1fdcc246e2d
+> # QnA pairs
+
+> !# @qna.pair.source = Legal & IT Security.docx
+
+<a id = "1"></a>
+
+# ? Download LastPass - 1.Download LastPass
+
+```markdown
+**Download LastPass**
+
+via [https://www.lastpass.com/en](https://www.lastpass.com/en) â€‹â€‹â€‹â€‹â€‹â€‹â€‹ and create your account. There's only one account to login to LastPass on all your devices using the same username and master password.
+```
+
+> !# @qna.pair.source = Legal & IT Security.docx
+
+<a id = "2"></a>
+
+# ? 2. Login to LastPass
+
+```markdown
+**2. Login to LastPass**
+
+The LastPass extension in your browser toolbar gives access to the tools and features you'll use with LastPass.
+```
+
+> !# @qna.pair.source = Legal & IT Security.docx
+
+<a id = "3"></a>
+
+# ? 4. Add a form fill
+
+```markdown
+**4. Add a form fill**
+
+Save time when you shop online and sign up for new services with Form Fill Profiles.
+
+1.  Click the LastPass browser extension
+2.  Open the Form Fill menu
+3.  Choose "add profile"
+4.  Enter your contact details, address, and payment information. Save the profile
+5.  Next time you want to fill a form on a website, click the profile icon
+6.  Select the profile you want to use and the form is automatically filled in for you
+
+Learn more about [Fill Forms](https://helpdesk.lastpass.com/nl/fill-form-basics/) .
+```
+
+> !# @qna.pair.source = Legal & IT Security.docx
+
+<a id = "4"></a>
+
+# ? Login to LastPass:
+
+```markdown
+**Login to LastPass:**
+
+1.  Click the LastPass icon in your browser toolbar
+2.  Enter your email address and master password and submit the login
+3.  Now when you click the LastPass icon, you'll be able to open your vault and manage your data
+```
+
+> !# @qna.pair.source = Legal & IT Security.docx
+
+<a id = "5"></a>
+
+# ? 3. Save a password via LastPass
+
+```markdown
+One of the great time-saving benefits of LastPass is that it remembers your passwords. When you visit a website login, LastPass fills the credentials for you - no typing required!
+```
+
+> !# @qna.pair.source = Legal & IT Security.docx
+
+<a id = "6"></a>
+
+# ? 5. Generate a strong passwords
+
+```markdown
+**5. Generate a strong passwords**
+
+Having a different, strong password that's randomly generated is important for safeguarding your online accounts and protecting your identity. As you sign up for accounts, LastPass can generate random passwords for you.
+
+1.  When signing up for a new account on a website, click the generate field icon to open the password generator
+2.  Review the generated password, and open advanced options to change the length or type of characters as desired
+3.  Choose 'Use password'
+4.  After the generated password is entered into the site, save it in LastPass
+
+Download the LastPass app!
+```
+
+

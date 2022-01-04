@@ -1,0 +1,45 @@
+> !# @source.endpoint=https://bachelorqnamaker.cognitiveservices.azure.com/
+> !# @source.kbId=9f949a68-b3e6-4c58-b256-88d438d168dc
+> # QnA pairs
+
+> !# @qna.pair.source = Communication.docx
+
+<a id = "1"></a>
+
+# ? I. Synchronizing Channels from Teams to your laptop
+
+```markdown
+**I. Synchronizing Channels from Teams to your laptop**
+
+Is it still possible (like it was with ShareBox) to synchronize folders (now called Channels in Teams) to your local laptop and be able to work on them offline? Of course, it is! The only trick is that the operation does not occur in Teams directly but in the underlying SharePoint application. In other words, you first need to click on the 'Go to SharePoint' tab associated with each Channel in Teams.
+
+From there it is the same procedure as before, [explained here in our How do I? page.](/sites/inside-newnormal/SitePages/Synchronizingyourfilesoffline-1566902874232.aspx)
+```
+
+> !# @qna.pair.source = Communication.docx
+
+<a id = "2"></a>
+
+# ? II. Making a particular Channel private
+
+```markdown
+**II. Making a particular Channel private**
+
+Until a few weeks ago, it was only possible to define restricted access to specific members at a Team level, making the whole Team â€˜private' and so blocking access to non-members. Good news is that there is now much more nuance to this 'all or nothing' approach. It is now possible when creating a new Channel to define it as â€˜private' and to restrict access to a specific group of people within the team . This is quite handy for instance when you want to provide guest access to a Teams workspace to a customer while keeping a restricted area to store (confidential) information that is only for the eyes of some colleagues.
+```
+
+> !# @qna.pair.source = Communication.docx
+
+<a id = "3"></a>
+
+# ? III. Making suggestions on how to improve doT
+
+```markdown
+**III. Making suggestions on how to improve doT**
+
+Your feedback is always very valuable to us. Do not hesitate to share ideas and suggestions on how to improve delaware on Teams (doT) via our [Suggestions Board](/sites/inside-newnormal/SitePages/Provide-feedback-on-delaware-on-Teams.aspx) , vote for your favorites and follow up the status of your suggestion.
+
+More generally, if you have any question around doT, we invite you to check our [How do I? section](/sites/inside-newnormal/SitePages/Provide-feedback-on-delaware-on-Teams.aspx) (where you can search on key words) and/or our [FAQ on doT](/sites/inside-group/SitePages/FAQondelawareonTeams-1573056789952.aspx) (finding answers to key questions on the dotifying process for instance).
+```
+
+

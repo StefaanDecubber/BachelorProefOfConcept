@@ -1,0 +1,67 @@
+> !# @source.endpoint=https://bachelorqnamaker.cognitiveservices.azure.com/
+> !# @source.kbId=1b55a7f9-6b03-4882-8f64-094337c29e9c
+> # QnA pairs
+
+> !# @qna.pair.source = delaware BeLux.docx
+
+<a id = "1"></a>
+
+# ? Printing queues per office
+
+```markdown
+**Printing queues per office**
+
+| Office location | Black & White queue | Color queue |
+| --- | --- | --- |
+| Antwerp | DLW_ANT_BW_Queue | DW_ANT_Color_Queue |
+| Ghent | DLW_GEN_BW_Queue | DLW_GEN_Color_Queue |
+| Kortrijk | DW_KOR_BW_Queue | DLW_KOR_Color_Queue |
+| Lummen | DLW_LUM_BW_Queue | DLW_LUM_Color_Queue |
+| Waver | DLW_WAV_BW_Queue | DLW_WAV_Color_Queue |
+```
+
+> !# @qna.pair.source = delaware BeLux.docx
+
+<a id = "2"></a>
+
+# ? How can I start to print and scan?
+
+```markdown
+**How can I start to print and scan?**
+
+To be able to print and scan, each user has to identify via his/her fingerprint. This makes scanning to your own mailbox very quick and avoids documents being printed and not collected. No authentication is required for copying.
+
+Once identified, on the touch screen, choose between and .
+```
+
+> !# @qna.pair.source = delaware BeLux.docx
+
+<a id = "3"></a>
+
+# ? Printing information
+
+```markdown
+**Printing**
+
+With the print option, you see the list of your print requests. All print assignments are selected as standard . Deselect the line(s) for the documents you do not wish to print and select the print button. You can also delete documents you do not need here. Print requests which are several weeks old will be deleted eventually.
+
+The standard settings for the printers are: double-sided + black and white . Since the cost of a color print or copy is many times that of a black and white one, users are requested to print as much as possible in black and white . Please note: if the color print queue is used, the cost of a color print is always charged, even if there is only one point of color in the document.
+```
+
+> !# @qna.pair.source = delaware BeLux.docx
+
+<a id = "4"></a>
+
+# ? Scanning information
+
+```markdown
+**Scanning**
+
+With the scan option, you then press on the printer's button and select ' Scan2MyMail ' as the email destination. If you wish to scan several documents, you must reselect the 'Scan2MyMail' destination. Your scanned documents are saved temporarily on the server; as soon as you log out of the console, the scans are sent to your email address. (Do not log out while the transfer is still in progress; i.e. as long as you can still see an icon in the printer panel).
+
+There are 2 so-called printer queues: one for black and white and one for color. When printing in a queue, your document is saved centrally on the print server and can be printed on any multifunctional machine in the building.
+
+Documents that are sent to the queue and are not printed immediately will be saved for two days . They are then automatically deleted and removed from the queue.
+```
+
+

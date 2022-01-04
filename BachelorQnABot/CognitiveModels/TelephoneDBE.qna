@@ -1,0 +1,32 @@
+> !# @source.endpoint=https://bachelorqnamaker.cognitiveservices.azure.com/
+> !# @source.kbId=0fbf8e7b-2e9f-4d1b-9c42-d8d07b2fae0a
+> # QnA pairs
+
+> !# @qna.pair.source = Telephony DBE.docx
+
+<a id = "1"></a>
+
+# ? Is your smartphone lost or stolen?
+
+```markdown
+**Is your smartphone lost or stolen?**
+
+*   Report the stolen/lost device immediately via the [Mobitel e-desk](https://smartphone.delaware.pro) . Print out the ticket and deliver it to the receptionist.
+*   Notify one of our offices reception desks for a replacement device.
+```
+
+> !# @qna.pair.source = Telephony DBE.docx
+
+<a id = "2"></a>
+
+# ? Possible costs or franchise
+
+```markdown
+**Possible costs or franchise**
+
+All damage/stolen/lost smartphones should be reported immediately via the [Mobitel e-desk](https://smartphone.delaware.pro) . No contribution will be requested. In case of recurrent damage/lost or stolen phones we will take action that might end up in paying a personal contribution.
+
+So, please be sure not to leave your smartphone unattended in your car or in any other place where there is a risk that it might be stolen!
+```
+
+

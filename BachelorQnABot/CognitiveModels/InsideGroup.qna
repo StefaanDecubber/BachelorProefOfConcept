@@ -1,0 +1,183 @@
+> !# @source.endpoint=https://bachelorqnamaker.cognitiveservices.azure.com/
+> !# @source.kbId=869194ef-9421-463f-a86d-4860b6fa7fb6
+> # QnA pairs
+
+> !# @qna.pair.source = Inside Group.docx
+
+<a id = "1"></a>
+
+# ? What is delaware on Teams (doT)?
+
+```markdown
+Microsoft Teams is our new collaborative environment to share files and documents in the context of a project or a team. Next to these generic functionalities, we added a delaware specific guidance and governance layer - called delaware on Teams or doT Â- to help you create and organize shared workspaces in a structured way.
+```
+
+> !# @qna.pair.source = Inside Group.docx
+
+<a id = "2"></a>
+
+# ? How is doT making my life easier?
+
+```markdown
+doT is a dashboard giving you an overview on your active, existing and archived Teams. As a team owner , it helps you manage the lifecycle of your Teams shared workspaces, allowing you to archive or delete Teams in one click.Moreover, doT is a wizard that will help you create and configure your Teams in a structured way, according to 5 specific business needs :
+
+*   My Presales : everything regarding presales interactions, like RFPs, proposals, customer background information, etc.
+*   My Projects : quite simply, all exchanges within a customer project. When you create a Team in this category, you will see an interconnection with our SAP back-office (based on project code) to ease project management and follow-up. Over time, you will be happy to see that more and more fields (for Projects) will be automatically filled thanks to integration with our SAP back-office.
+*   My GLS : specifically for our colleagues from GLocal Services who take care of customer support and maintenance services.
+*   My Communities: dedicated to all transversal initiatives that are not directly related to a customer or a solution, the WeCare projects or communities of interest for example.
+*   My Organizations : the place for Teams shared workplaces per team, department/solution or expertise domain.
+```
+
+> !# @qna.pair.source = Inside Group.docx
+
+<a id = "3"></a>
+
+# ? What is the difference between My Communities and My Organizations?
+
+```markdown
+Communities are really transversal, cross-department shared workspaces. Examples include a WeCare initiative, a new COI, a multiday training with deliverables, an account management team for a big customer, a customer community, an event, .. Organizational Teams, on the other hand, are used for internal teams matching with solutions/domains . Set it up to collaborate with colleagues within a solution, team or domain.
+```
+
+> !# @qna.pair.source = Inside Group.docx
+
+<a id = "4"></a>
+
+# ? Will delaware on Teams replace our existing ShareBox environment for file sharing?
+
+```markdown
+Absolutely. Since 16 October 2019, doT is available for everyone through the Microsoft Teams application and all owners are be invited to â€˜dotify' their existing ShareBoxes, that is to say configure them for the new doT environment by adding all relevant metadata. The operation will be done in a few clicks, directly from the doT dashboard.
+```
+
+> !# @qna.pair.source = Inside Group.docx
+
+<a id = "5"></a>
+
+# ? What will happen to the existing shared workspaces in ShareBox?
+
+```markdown
+From the beginning of 2020, all existing workspaces (â€˜ShareBoxes') that have not been moved to the new doT environment will be automatically archived and made accessible as read-only.
+From the launch of doT (16/10/2019), the project team will gradually archive shareboxes that have not been modified since the 1st of January 2019 . No worries, these will be still be easily accessible as read-only and their owners will be able to make them active Teams if needed.
+```
+
+> !# @qna.pair.source = Inside Group.docx
+
+<a id = "6"></a>
+
+# ? I am an owner of several ShareBoxes, when and how am I supposed to â€˜dotify' them?
+
+```markdown
+The â€˜dotify' operation has been explained during several online training sessions in October. [Here is the recording if you missed it](/sites/WOD/Shared%20Documents/delaware%20on%20Teams/Training/Training%20sessions/Connect%20the%20doT%20webinars/Webinar%20Connecting%20the%20doTs.mp4) . You have until end of 2019 to â€˜dotify' your existing ShareBoxes (or archiving them if no longer active or deleting them if you think they are no longer relevant at all).The procedure to dotify' your existing ShareBoxes (and older Teams) is also described [here in the ˜How do I?' section on Inside](/sites/inside-newnormal/SitePages/doTify-1571210658557.aspx) , with some essential tips.If you have many items under 'My existing ShareBoxes' in your doT dashboard, we recommend you to start dotifying from now on and to slice up the cake in pieces, a batch every week for instance.
+
+To lighten your workload, the project team is archiving all ShareBoxes that have not been modified since 1st of January 2019 and that can be considered passive. These will be still accessible read-only.
+```
+
+> !# @qna.pair.source = Inside Group.docx
+
+<a id = "7"></a>
+
+# ? As an owner, why is it important to start dotifying your existing ShareBoxes now (and not wait for the last minute)?
+
+```markdown
+Be aware that your existing ShareBoxes, although they remain available until end of the year, offer limited functionalities. For instance, you can no longer add or remove members to/from an existing ShareBox . This is already a very good reason to launch the dotifying process as soon as you can, to keep the full control of your shared workspace.
+
+Once moved to Teams, the former ShareBoxes will also be easier to find and organize thanks to the doT dashboard. This is another immediate benefit of the move, both for owners and members.
+```
+
+> !# @qna.pair.source = Inside Group.docx
+
+<a id = "8"></a>
+
+# ? What should you absolutely keep in mind when launching the â€˜dotify' process?
+
+```markdown
+*   It can take up some time (certainly if you want to keep the file history). Be aware that you cannot access your files during that time). We recommend to launch the â€˜dotifying' process at the end of the business day .
+*   Wait for the migration of the ShareBox content to be completely finished before starting reorganizing your content in Teams (if needed). You will get a message when the process is finished.
+*   Once you have done the migration, old hyperlinks to ShareBox content will no longer work. If needed, send a new link from Teams to the (external) people concerned.
+*   When â€˜dotifying' you have the choice to dotify to an existing Team or to create a new one. Be aware that you can only dotify to an existing Team you are a (co)owner of . If you believe it is wiser to move the ShareBox content to an existing Team, please ask the owner to make you co-owner and grant you permission.
+*   If you want to keep a copy of your most accessed files on your laptop, you have to do the sync operation again (see that specific question below).
+
+After the dotifying operation, all external members are automatically ejected from the given Teams. So you need to invite external people again, keeping in mind that they have access to all the content of the Team (see also next point).
+```
+
+> !# @qna.pair.source = Inside Group.docx
+
+<a id = "9"></a>
+
+# ? Some of my ShareBoxes (for engagement) include external people/customer as members: what will happen once I move them to doT?
+
+```markdown
+You touch a very important point indeed. When â€˜dotifying' a ShareBox, all folders and files are per default brought together under a General channel in the given Teams. There is no distinction anymore between 'internal documents' or 'external documents'. As Teams does not allow for the moment to specify at a Channel level which information can be shared with external people (it only does at the Teams level), the project team decided for security and privacy reasons to exclude external members when you 'dotify' a ShareBox. In other words, if you want to keep external people as members, you will have to invite them again in Teams. Please be aware then that they will have access to everything in the given Teams!
+
+If you want to store internal (sensitive) project information in a separate location (only for internal use), we recommend you to create a separate Team. This until the time Microsoft allows to define the public/private setting at a channel level (now it is only possible at a Team level).
+In any case, we recommend you just inform your customer contact via mail that 'we are soon going to move to Microsoft Teams as our new standard for collaboration, instead of ShareBox (SharePoint). You will receive an invitation from me very shortly to join our new Teams shared workspace and continue sharing files as we did. In our next project meeting, we will run you through all its features and functionalities!'
+```
+
+> !# @qna.pair.source = Inside Group.docx
+
+<a id = "10"></a>
+
+# ? What happens with my file history when I move shared workspaces from ShareBox to doT?
+
+```markdown
+Good to know also is that, to optimize our storage capacity, we only migrate per default the latest version of all files when you â€˜dotify' your existing ShareBoxes. If you want to keep all the version history, you need to move the cursor to Yes at the 'Migrate your file history?' question. Be aware that migrating all the file history to Teams may take much more time.
+```
+
+> !# @qna.pair.source = Inside Group.docx
+
+<a id = "11"></a>
+
+# ? What is the added value of doT for me as a team member (not an owner)?
+
+```markdown
+doT will give you a better overview on your most active Teams and we dare to hope that the Teams interface will help you find information much easier and quicker than with ShareBox. You will also be able to leverage one of the big advantages of Teams, that is to say the opportunity to communicate and collaborate from one single interface. Last but not least, Teams is much more conversation-based (and fun) then ShareBox, allowing you to post comments on a document or file directly in the right context. You can easily browse through Teams and find inspiration for your projects or join a community you are interested in more easily.
+```
+
+> !# @qna.pair.source = Inside Group.docx
+
+<a id = "12"></a>
+
+# ? How can I keep on syncing files and folders to my local drive and have them available offline (like I used to do with ShareBox)?
+
+```markdown
+Although Teams is available anytime anywhere via the mobile app on your smartphone, it may be useful in some circumstances - typically when you are travelling and want to be able to work offline at the airport or on the plane - to have key MS Teams documents available offline on your laptop. Therefore, you need to synchronize the documents from a specific MS Teams channel towards your desktop/laptop. The procedure to do that is described [here on Inside](/sites/inside-newnormal/SitePages/Synchronizingyourfilesoffline-1566902874232.aspx) .
+```
+
+> !# @qna.pair.source = Inside Group.docx
+
+<a id = "13"></a>
+
+# ? What about privacy and confidentiality of information in Teams?
+
+```markdown
+Sharing content is part of our culture. Therefore, if you create a new Teams, it is by default public (read permissions) unless you decide otherwise. There's one exception: Organizational Teams are private by default. If you don't want to share all information from your Teams, you can choose to make a Teams â€˜private' and thus restricting access to the members only.Important to know: the content of public Teams can also be found using Delve (from Microsoft Office 365), for all people having a delaware account. To restrict access via Delve to members only, here again create a private Teams.
+```
+
+> !# @qna.pair.source = Inside Group.docx
+
+<a id = "14"></a>
+
+# ? What if I need to switch regularly between different Teams accounts?
+
+```markdown
+As Teams is getting more and more widely used, the chance is high that you will need to access Teams that are under a customer account (or tenant). For the moment, Microsoft does not support multiple accounts from one single interface. You need to switch manually between accounts (using the menu on the upper right corner).
+
+That process can sometimes take more than a few seconds, although Microsoft is working on ways to speed up the switching operation.
+
+If you frequently switch between different accounts on the same day using your Teams desktop app, you may also experience some bugs (like chats appearing with a delay or Teams disappearing then reappearing because of caching issues).
+
+One workaround if you need to switch regularly between two Teams accounts is to have one open in your desktop app and the other one in your web browser.
+
+Attention: if you are in a Teams meeting, it is recommended not to switch accounts because you may be kicked out of the meeting.
+```
+
+> !# @qna.pair.source = Inside Group.docx
+
+<a id = "15"></a>
+
+# ? Can I create a Teams workspace only for me, myself and I?
+
+```markdown
+Teams are supposed to be shared workspaces. For saving your personal (work) files, there is another Office365 tool available for you: OneDrive for Business . It allow you to access your personal files (like work in progress or personal notes) anytime, anywhere and from any device. You can save your files directly to OneDrive from Word, Powerpoint, Excel, etc. Or access the OneDrive application via Office.com and then clicking on the OneDrive icon.
+```
+
+

@@ -1,0 +1,36 @@
+{
+  "textanalyticModel": {
+    "endpointUri": "https://textanalyticsqnabachelor.cognitiveservices.azure.com/",
+    "credential": "b23059a1d6b949f89b1082ee4a4b83ae",
+    "projects": [
+      {
+        "name": "Communication",
+        "deploymentName": "deployment"
+      },
+      {
+        "name": "InsideGroup",
+        "deploymentName": "deployment"
+      },
+      {
+        "name": "DLU",
+        "deploymentName": "deployment"
+      },
+      {
+        "name": "LegalAndItSecurity",
+        "deploymentName": "deployment"
+      },
+      {
+        "name": "TelephonyDBE",
+        "deploymentName": "deployment"
+      },
+      {
+        "name": "DelawareBelux",
+        "deploymentName": "deployment"
+      },
+      {
+        "name": "CasualConversation",
+        "deploymentName": "deployment"
+      }
+    ]
+  }
+ }

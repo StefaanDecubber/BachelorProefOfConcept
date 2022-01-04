@@ -1,0 +1,9 @@
+{
+  "modelPath": "C:\\Users\\stefa\\Documents\\informatica\\bachelorproef\\Bot\\BachelorBot\\BachelorQnABot\\Model",
+  "snapshotPath": "C:\\Users\\stefa\\Documents\\informatica\\bachelorproef\\Bot\\BachelorBot\\BachelorQnABot\\Generated\\orchestrator.blu",
+  "dataSources": {
+    "hierarchical": false,
+    "inputs": [],
+    "path": ""
+  }
+}
