@@ -7,6 +7,7 @@ using BachelorQnABot;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using OfficeOpenXml;
 
 namespace EchoBot
 {

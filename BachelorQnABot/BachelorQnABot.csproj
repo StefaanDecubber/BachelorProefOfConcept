@@ -8,6 +8,7 @@
   <ItemGroup>
     <PackageReference Include="Azure.AI.Language.QuestionAnswering" Version="1.0.0" />
     <PackageReference Include="Azure.AI.TextAnalytics" Version="5.1.1" />
+    <PackageReference Include="EPPlus" Version="5.8.4" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.1" />
     <PackageReference Include="Microsoft.Bot.Builder.AI.Orchestrator" Version="4.15.1" />
     <PackageReference Include="Microsoft.Bot.Builder.Integration.AspNet.Core" Version="4.15.0" />
@@ -20,10 +21,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Model\" />
-    <Folder Include="Models\" />
     <Folder Include="Generated\" />
-    <Folder Include="CognitiveModels\" />
+    <Folder Include="Model\" />
   </ItemGroup>
 
 </Project>
