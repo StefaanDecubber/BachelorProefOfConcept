@@ -34,7 +34,7 @@ namespace DlWR.CustomSourceIndex
                 keywordQuery.SortList.Add(property, SortDirection.Descending);
             }
             //keywordQuery.SortList.Add("Created", SortDirection.Descending);
-            keywordQuery.SourceId = new Guid("8413cd39-2156-4e00-b54d-11efd9abdb89");
+            keywordQuery.SourceId = new Guid("");
 
             var results = GetSearchResults(keywordQuery, ctx);
 
@@ -58,7 +58,7 @@ namespace DlWR.CustomSourceIndex
 
             keywordQuery.RowLimit = rowLimit;
             keywordQuery.TrimDuplicates = false;
-            keywordQuery.SourceId = new Guid("b09a7990-05ea-4af9-81ef-edfab16c4e31");
+            keywordQuery.SourceId = new Guid("");
 
             var results = GetSearchResults(keywordQuery, ctx);
 

@@ -26,10 +26,10 @@ namespace DlWR.CustomSourceIndex
 
         static async Task Main(string[] args)
         {
-            _apiKey = "264235BF-80BA-4150-8ECD-F03F1503FC0F";
-            _clientId = "91a388cb-0f7c-4b7a-b930-8afa9232f198";
-            _clientSecret = "g62iEvwj1Y5nz7Xf-BOu.DoAg42l.Ebfo-";
-            _defaultUrl = "https://delawareconsulting.sharepoint.com";
+            _apiKey = "";
+            _clientId = "";
+            _clientSecret = "";
+            _defaultUrl = "";
             _authenticationManager = new AuthenticationManager();
 
             var elasticDocs = new List<ElasticDocument>();
