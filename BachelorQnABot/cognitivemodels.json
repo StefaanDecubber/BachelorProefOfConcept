@@ -1,7 +1,7 @@
 {
   "textanalyticModel": {
-    "endpointUri": "https://textanalyticsqnabachelor.cognitiveservices.azure.com/",
-    "credential": "b23059a1d6b949f89b1082ee4a4b83ae",
+    "endpointUri": "",
+    "credential": "",
     "projects": [
       {
         "name": "Communication",

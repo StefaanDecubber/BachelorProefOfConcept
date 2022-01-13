@@ -1,0 +1,11 @@
+C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorBotAndSemanticSearch\bin\Debug\netcoreapp3.1\questions.json
+C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorBotAndSemanticSearch\bin\Debug\netcoreapp3.1\BachelorBotAndSemanticSearch.deps.json
+C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorBotAndSemanticSearch\bin\Debug\netcoreapp3.1\BachelorBotAndSemanticSearch.dll
+C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorBotAndSemanticSearch\bin\Debug\netcoreapp3.1\BachelorBotAndSemanticSearch.pdb
+C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorBotAndSemanticSearch\obj\Debug\netcoreapp3.1\BachelorBotAndSemanticSearch.csproj.AssemblyReference.cache
+C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorBotAndSemanticSearch\obj\Debug\netcoreapp3.1\BachelorBotAndSemanticSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorBotAndSemanticSearch\obj\Debug\netcoreapp3.1\BachelorBotAndSemanticSearch.AssemblyInfoInputs.cache
+C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorBotAndSemanticSearch\obj\Debug\netcoreapp3.1\BachelorBotAndSemanticSearch.AssemblyInfo.cs
+C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorBotAndSemanticSearch\obj\Debug\netcoreapp3.1\BachelorBotAndSemanticSearch.csproj.CoreCompileInputs.cache
+C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorBotAndSemanticSearch\obj\Debug\netcoreapp3.1\BachelorBotAndSemanticSearch.dll
+C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorBotAndSemanticSearch\obj\Debug\netcoreapp3.1\BachelorBotAndSemanticSearch.pdb

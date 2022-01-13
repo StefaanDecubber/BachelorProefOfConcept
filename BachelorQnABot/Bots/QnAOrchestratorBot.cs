@@ -36,12 +36,15 @@ namespace BachelorQnABot.Bots
             {
                 //Get questions from json file
                 var questions = GetQuestions();
+                var questionsSelf = GetQuestionsSelf();
                 //Create questionanswer objects with all questions answers intents score etc.
                 var qas = await GetQuestionAnswersAsync(questions, dc, cancellationToken);
+                var qass = await GetQuestionAnswersAsync(questionsSelf, dc, cancellationToken);
                 //Write qas in excel
                 ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
-                var file = new FileInfo(@"C:\Users\stefa\Documents\informatica\bachelorproef\Bestanden\DataTest.xlsx");
-                await SaveExcelFile(qas, file);
+                var file = new FileInfo(@"");
+                await SaveExcelFileDeel1(qas, file);
+                await SaveExcelFileDeel2(qass, file);
 
             }
             else
@@ -55,13 +58,24 @@ namespace BachelorQnABot.Bots
             }
         }
 
-        private async Task SaveExcelFile(List<QuestionAnswer> qas, FileInfo file)
+        private async Task SaveExcelFileDeel1(List<QuestionAnswer> qas, FileInfo file)
         {
             DeleteIfExists(file);
 
             using var package = new ExcelPackage(file);
 
-            var ws = package.Workbook.Worksheets.Add("MainReport");
+            var ws = package.Workbook.Worksheets.Add("Deel1");
+
+            var range = ws.Cells["A2"].LoadFromCollection(qas, true);
+            range.AutoFitColumns();
+            await package.SaveAsync();
+        }
+
+        private async Task SaveExcelFileDeel2(List<QuestionAnswer> qas, FileInfo file)
+        {
+            using var package = new ExcelPackage(file);
+
+            var ws = package.Workbook.Worksheets.Add("Deel2");
 
             var range = ws.Cells["A2"].LoadFromCollection(qas, true);
             range.AutoFitColumns();
@@ -121,7 +135,21 @@ namespace BachelorQnABot.Bots
             #endregion
             return questions;
         }
-        
+
+        private List<string> GetQuestionsSelf()
+        {
+            #region JsonReader
+            var questions = new List<string>();
+            using (StreamReader r = new StreamReader("questions.json"))
+            {
+                string json = r.ReadToEnd();
+                var questionMapper = JsonConvert.DeserializeObject<QuestionsMapper>(json);
+                questions = questionMapper.QuestionsSelf;
+            }
+            #endregion
+            return questions;
+        }
+
         //If the question doesn't belong to one of the projects in orchestrator.blu than the question will be answered by the chitchat project with name CasualConversation
         private async Task DispatchToTopIntentAsync(ITurnContext<IMessageActivity> turnContext, string intent, CancellationToken cancellationToken)
         {

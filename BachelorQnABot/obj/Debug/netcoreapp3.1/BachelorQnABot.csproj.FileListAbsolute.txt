@@ -34,7 +34,6 @@ C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorQnABo
 C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorQnABot\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
 C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorQnABot\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
 C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorQnABot\bin\Debug\netcoreapp3.1\System.Text.Json.dll
-C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorQnABot\obj\Debug\netcoreapp3.1\BachelorQnABot.csproj.AssemblyReference.cache
 C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorQnABot\obj\Debug\netcoreapp3.1\BachelorQnABot.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorQnABot\obj\Debug\netcoreapp3.1\BachelorQnABot.AssemblyInfoInputs.cache
 C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorQnABot\obj\Debug\netcoreapp3.1\BachelorQnABot.AssemblyInfo.cs
@@ -141,3 +140,4 @@ C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorQnABo
 C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorQnABot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorQnABot\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
 C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorQnABot\bin\Debug\netcoreapp3.1\questions.json
+C:\Users\stefa\Documents\informatica\bachelorproef\Bot\BachelorBot\BachelorQnABot\obj\Debug\netcoreapp3.1\BachelorQnABot.csproj.AssemblyReference.cache
